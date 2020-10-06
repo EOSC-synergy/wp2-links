@@ -1,7 +1,7 @@
 site_name: EOSCY-SYNERGY Link List of WP2
 site_dir: /tmp/synergy-wp2
 docs_dir: ..
-repo_url: https://github.com/EOSC-synergy/docs-synergy
+repo_url: https://github.com/EOSC-synergy/wp2-links
 edit_uri: "edit/master"
 theme: 
     name: 'readthedocs'
@@ -18,9 +18,13 @@ markdown_extensions:
     - def_list
 nav:
     - Home: README.md
-    - All links: wp-link-collection.md
-    - How to use the Infrastructure: how-to-infra.md
-    - Services: services.md
+    - Thematic Services: how-to-thematic-services.md
+    - Infrastructure: infrastructure.md
+    - Virtual Organisations: vos.md
+    - Public Links: publinks.md
+    - Internal Links: internal.md
+    # - ----------: /
+    # - All links (to be moved elsewhere): wp-link-collection.md
     #
     # - Concepts:
     #     - Virtual Organisations: how-to-vo.md
@@ -37,6 +41,6 @@ nav:
     # - HDF Policies : policies/links-to-all-policies.md
     # - Mailinglists: mailinglists.md
     # - Incident Response: how-to-incident-response.md
-    # - ----------: /
+    - ----------: /
     # - Copy of the HDF Official Webpage: hdf-official-web-copy.md
-    # - Imprint: http://www.kit.edu/impressum.php
+    - Imprint: http://www.kit.edu/impressum.php
