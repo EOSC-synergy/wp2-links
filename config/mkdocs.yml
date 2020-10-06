@@ -1,0 +1,42 @@
+site_name: EOSCY-SYNERGY Link List of WP2
+site_dir: /tmp/synergy-wp2
+docs_dir: ..
+repo_url: https://github.com/EOSC-synergy/docs-synergy
+edit_uri: "edit/master"
+theme: 
+    name: 'readthedocs'
+    # name: 'rtd-mklab'
+    # name: 'rtd-dropdown'
+    # name: mkdocs
+    hightlightjs: true
+markdown_extensions:
+    - smarty
+    - toc:
+        baselevel: 1
+        permalink: "#"
+    - admonition
+    - def_list
+nav:
+    - Home: README.md
+    - All links: wp-link-collection.md
+    - How to use the Infrastructure: how-to-infra.md
+    - Services: services.md
+    #
+    # - Concepts:
+    #     - Virtual Organisations: how-to-vo.md
+    #     - Proxy: proxy-concept.md
+    # - Howtos for...:
+    #     - Users: how-to-users.md
+    #     - PIs (VO Administrators): how-to-vo-admins.md
+    #     - Services: how-to-services.md
+    #     - Developers: how-to-service-implementation.md
+    #     - Identity Providers: how-to-idp.md
+    # - Virtual Organisations:
+    #     - List of supported VOs: list-of-vos.md
+    # - Assurance : how-to-assurance.md
+    # - HDF Policies : policies/links-to-all-policies.md
+    # - Mailinglists: mailinglists.md
+    # - Incident Response: how-to-incident-response.md
+    # - ----------: /
+    # - Copy of the HDF Official Webpage: hdf-official-web-copy.md
+    # - Imprint: http://www.kit.edu/impressum.php
