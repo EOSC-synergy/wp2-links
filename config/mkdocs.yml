@@ -17,7 +17,7 @@ markdown_extensions:
     - admonition
     - def_list
 nav:
-    - Home: mainpage.md
+    - Home: index.md
     - Thematic Services: how-to-thematic-services.md
     - Infrastructure: infrastructure.md
     - Virtual Organisations: vos.md
