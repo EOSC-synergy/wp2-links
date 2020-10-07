@@ -51,6 +51,8 @@ Cloud for this you should use:
 
 **UPV Infrastructure Manager Dashboard [https://appsgrycap.i3m.upv.es:31443/im-dashboard/](https://appsgrycap.i3m.upv.es:31443/im-dashboard/)**
 
+Please also read the page on [storage](/storage).
+
 You may also take a look at these services:
 
 - OpenStack Dashboard: [https://dashboard.fedcloud.eosc-synergy.eu/login.html](https://dashboard.fedcloud.eosc-synergy.eu/login.html)
