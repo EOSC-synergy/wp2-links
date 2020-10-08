@@ -42,9 +42,8 @@ one Virtual Organisation per Thematic Service. Most of our [Computer
 centres](/infrastructure#sites) support all of the synergy thematic
 services.
 
-## User Concept
 
-### Admin Users
+## Admin Users
 
 Admin users can allocate **UPV Virtual Infrastructures** on top of Federated
 Cloud for this you should use:
@@ -58,7 +57,7 @@ You may also take a look at these services:
 - OpenStack Dashboard: [https://dashboard.fedcloud.eosc-synergy.eu/login.html](https://dashboard.fedcloud.eosc-synergy.eu/login.html)
 - Infrastructure Manager Web Portal: [https://appsgrycap.i3m.upv.es:31443/im-web/](https://appsgrycap.i3m.upv.es:31443/im-web/)
 - Infrastructure Manager Service: [https://appsgrycap.i3m.upv.es:31443/im/](https://appsgrycap.i3m.upv.es:31443/im/)
-
+- Infrastructure Manager Hwto (by Ondřej Melichar and Josef Handl): [pdf](/files/im-howto.pdf)
 
 As such, the admin users are supposed to be contacted by the users of
 their thematic services for help.
@@ -71,7 +70,7 @@ the basic infrastructure.
 
 Admin users are typically also administrators of the VO.
 
-### Scientific Users
+## Thematic Service Scientific Users
 
 Scientific users can use the services that the admin users have created.
 As such they need to contact their Admin users or their VO Admins.
