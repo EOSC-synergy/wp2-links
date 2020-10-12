@@ -2,6 +2,7 @@
 
 ## General Infrastructure
 
+- The detailed overview about the sites is captured in this [google sheet](https://docs.google.com/spreadsheets/d/1OKXNeIDKuM2Pojkpv4_jpJkzLTC6_0B4j_3IHLd20xY/edit)
 - GOCDB: [https://goc.egi.eu/portal/index.php?Page_Type=Service_Group&id=2485](https://goc.egi.eu/portal/index.php?Page_Type=Service_Group&id=2485)
 - AppDB
     - eosc-synergy VO:  [https://appdb.egi.eu/store/vo/eosc-synergy.eu](https://appdb.egi.eu/store/vo/eosc-synergy.eu)
@@ -32,7 +33,6 @@
 ## Kubernetes
 
 - Tosca Templates for IM Dashboard: [https://github.com/grycap/im-dashboard/tree/master/tosca-templates](https://github.com/grycap/im-dashboard/tree/master/tosca-templates)
-- The detailed overview about the sites is captured in this [google sheet](https://docs.google.com/spreadsheets/d/1OKXNeIDKuM2Pojkpv4_jpJkzLTC6_0B4j_3IHLd20xY/edit)
 
 ## HPC
 
@@ -46,7 +46,8 @@
 ## Storage
 
 In cloud storage is understood to be integrated into Kubernetes according
-to the discussion in [this document](https://docs.google.com/document/d/1tI_ITvtsO1IsdLaaoOqstyGKp9j2iqcX8-E7WMAg2u8/edit#)
+to the discussion in "Viet's Doc" on Working notes about storage
+solutions(https://docs.google.com/document/d/1tI_ITvtsO1IsdLaaoOqstyGKp9j2iqcX8-E7WMAg2u8/edit)
 
 
 ## Other internal links
