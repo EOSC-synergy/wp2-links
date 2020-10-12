@@ -27,6 +27,7 @@
 ## Openstack
 
 - [EGI Federated Cloud Docs](https://egi-federated-cloud-integration.readthedocs.io/).
+- [IM-Dashboard VO/Sites integration](https://github.com/grycap/im-dashboard/blob/master/sites.json)
 
 ## Kubernetes
 
@@ -54,3 +55,4 @@ to the discussion in [this document](https://docs.google.com/document/d/1tI_ITvt
 - Participating sites and their status: [Service Integration Status](https://docs.google.com/spreadsheets/d/1OKXNeIDKuM2Pojkpv4_jpJkzLTC6_0B4j_3IHLd20xY/edit) (google)
 - [Coordination Document](https://docs.google.com/spreadsheets/d/1ZCGXjt6x3eZ3V4TnmyysfBZoRMl4hBK2urpZhoYpNyQ/edit) (google)
 - [Meeting Minutes](https://docs.google.com/document/d/1kuCBaNSBlX7_hK9f-2OyVgZfGkcUuXnvjV_L-C7IejI/edit) (google)
+- [Bratislava Agenda with notes](https://docs.google.com/document/d/1CcRU2ZI9nhq4qNSBhh9XgYStbVOmi5fNm4shOfd9ddU/edit#heading=h.qfjbxg22fl3g)
