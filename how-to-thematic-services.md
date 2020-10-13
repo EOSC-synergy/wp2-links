@@ -56,7 +56,7 @@ You may also take a look at these services:
 
 - OpenStack Dashboard: [https://dashboard.fedcloud.eosc-synergy.eu/login.html](https://dashboard.fedcloud.eosc-synergy.eu/login.html)
 - Infrastructure Manager Web Portal: [https://appsgrycap.i3m.upv.es:31443/im-web/](https://appsgrycap.i3m.upv.es:31443/im-web/)
-- Infrastructure Manager Service: [https://appsgrycap.i3m.upv.es:31443/im/](https://appsgrycap.i3m.upv.es:31443/im/)
+- Infrastructure Manager Service: https://appsgrycap.i3m.upv.es:31443/im (just a service, not useful in the browser :)
 - Infrastructure Manager [Howto (by Ondřej Melichar and Josef Handl): (pdf)](/files/im-howto.pdf)
 
 As such, the admin users are supposed to be contacted by the users of
