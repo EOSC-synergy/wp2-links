@@ -24,6 +24,11 @@
 - oidc-agent: [https://github.com/indigo-dc/oidc-agent](https://github.com/indigo-dc/oidc-agent)
     - Repo: [http://repo.data.kit.edu/](http://repo.data.kit.edu/)
 
+### EGI Checkin:
+- [https://wiki.egi.eu/wiki/AAI_guide_for_SPs](https://wiki.egi.eu/wiki/AAI_guide_for_SPs)
+- [https://wiki.egi.eu/wiki/AAI_guide_for_VO_managers](https://wiki.egi.eu/wiki/AAI_guide_for_VO_managers)
+- [https://wiki.egi.eu/wiki/PROC14_VO_Registration](https://wiki.egi.eu/wiki/PROC14_VO_Registration)
+
 
 ## Openstack
 
