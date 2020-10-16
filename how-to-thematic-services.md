@@ -27,6 +27,12 @@ provides:
 
 (For links to these, see the [infrastructure](/infrastructure) section.)
 
+### Documentation for EGI FedCloud:
+
+- [EGI Fedcloud Integration](https://egi-federated-cloud-integration.readthedocs.io)
+- [EGI Federated Cloud](https://egi-federated-cloud.readthedocs.io/en/latest/storage.html)
+
+
 ## Virtual Infrastructures
 
 Based on Federated Cloud Infrastructures, **Virtual Infrastructures** can

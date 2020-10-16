@@ -13,6 +13,8 @@
 - Accounting: [https://accounting.egi.eu](https://accounting.egi.eu)
     - Resource Usage by site over time:
         - [All EOSC-Synergy VOs](https://accounting.egi.eu/cloud/vm_num/SITE/DATE/2019/4/2020/10/custom-covid19.eosc-synergy.eu,eosc-synergy.eu,o3as.data.kit.edu,worsica.vo.incd.pt/onlyinfrajobs/)
+
+- DynDNS: [NSUPDATE](https://nsupdate.fedcloud.eu)
 	
 ## AAI
 
@@ -54,6 +56,11 @@ In cloud storage is understood to be integrated into Kubernetes according
 to the discussion in "Viet's Doc" on Working notes about storage
 solutions(https://docs.google.com/document/d/1tI_ITvtsO1IsdLaaoOqstyGKp9j2iqcX8-E7WMAg2u8/edit)
 
+- [EGI](https://egi-federated-cloud.readthedocs.io/en/latest/storage.html)
+- [EGI howto on federated storage](https://wiki.egi.eu/wiki/HOWTO09_How_to_use_Federated_Cloud_Storage)
+- Block Storage (EGI)
+- Object Storage (EGI)
+
 
 ## Other internal links
 
@@ -62,3 +69,5 @@ solutions(https://docs.google.com/document/d/1tI_ITvtsO1IsdLaaoOqstyGKp9j2iqcX8-
 - [Coordination Document](https://docs.google.com/spreadsheets/d/1ZCGXjt6x3eZ3V4TnmyysfBZoRMl4hBK2urpZhoYpNyQ/edit) (google)
 - [Meeting Minutes](https://docs.google.com/document/d/1kuCBaNSBlX7_hK9f-2OyVgZfGkcUuXnvjV_L-C7IejI/edit) (google)
 - [Bratislava Agenda with notes](https://docs.google.com/document/d/1CcRU2ZI9nhq4qNSBhh9XgYStbVOmi5fNm4shOfd9ddU/edit#heading=h.qfjbxg22fl3g)
+
+
