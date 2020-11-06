@@ -12,7 +12,7 @@
 - Argo Monitoring: [https://argo.egi.eu/egi/dashboard/SLA/EGI_EOSCSYNERGY_SLA](https://argo.egi.eu/egi/dashboard/SLA/EGI_EOSCSYNERGY_SLA)
 - Accounting: [https://accounting.egi.eu](https://accounting.egi.eu)
     - Resource Usage by site over time:
-        - [All EOSC-Synergy VOs](https://accounting.egi.eu/cloud/vm_num/SITE/DATE/2019/4/2020/10/custom-covid19.eosc-synergy.eu,eosc-synergy.eu,o3as.data.kit.edu,worsica.vo.incd.pt/onlyinfrajobs/)
+        - [All EOSC-Synergy VOs](https://accounting.egi.eu/cloud/vm_num/SITE/DATE/2019/4/2020/11/custom-covid19.eosc-synergy.eu,eosc-synergy.eu,o3as.data.kit.edu,worsica.vo.incd.pt/onlyinfrajobs/)
 
 - DynDNS: [NSUPDATE](https://nsupdate.fedcloud.eu)
 	
