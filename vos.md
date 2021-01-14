@@ -14,7 +14,7 @@ Here are links for the VOs
 - AppDB: [https://appdb.egi.eu/store/vo/covid19.eosc-synergy.eu](https://appdb.egi.eu/store/vo/covid19.eosc-synergy.eu)
 - Entitlement: `urn:mace:egi.eu:group:covid19.eosc-synergy.eu`
 - OPS Portal: [https://operations-portal.egi.eu/vo/view/voname/covid19.eosc-synergy.eu](https://operations-portal.egi.eu/vo/view/voname/covid19.eosc-synergy.eu)
-- Supported by sites (according to IM-Dashboard):
+- Supported by sites (according to [IM-Dashboard](https://appsgrycap.i3m.upv.es:31443/im-dashboard/)):
     - BIFI
     - CESGA
     - CESNET
@@ -34,7 +34,7 @@ Here are links for the VOs
 - AppDB: MISSING
 - Entitlement: `urn:mace:egi.eu:group:EOServices-vo.indra.es`
 - OPS Portal: [https://operations-portal.egi.eu/vo/view/voname/EOServices-vo.indra.es](https://operations-portal.egi.eu/vo/view/voname/EOServices-vo.indra.es)
-- Supported by sites (according to IM-Dashboard):
+- Supported by sites (according to [IM-Dashboard](https://appsgrycap.i3m.upv.es:31443/im-dashboard/)):
     - N/A
 
 
@@ -49,7 +49,7 @@ Here are links for the VOs
 - AppDB: [https://appdb.egi.eu/store/vo/lagoproject.net](https://appdb.egi.eu/store/vo/lagoproject.net)
 - Entitlement: `urn:mace:egi.eu:group:lagoproject.net`
 - OPS Portal: [https://operations-portal.egi.eu/vo/view/voname/lagoproject.net](https://operations-portal.egi.eu/vo/view/voname/lagoproject.net)
-- Supported by sites (according to IM-Dashboard):
+- Supported by sites (according to [IM-Dashboard](https://appsgrycap.i3m.upv.es:31443/im-dashboard/)):
     - Lago does not appear in the list of VOs yet!!
 
 ## MSWSS
@@ -64,7 +64,7 @@ Here are links for the VOs
 - AppDB: [https://appdb.egi.eu/store/vo/mswss.ui.savba.sk](https://appdb.egi.eu/store/vo/mswss.ui.savba.sk)
 - Entitlement: `urn:mace:egi.eu:group:mswss.ui.savba.sk`
 - OPS Portal: [https://operations-portal.egi.eu/vo/view/voname/mswss.ui.savba.sk](https://operations-portal.egi.eu/vo/view/voname/mswss.ui.savba.sk)
-- Supported by sites (according to IM-Dashboard):
+- Supported by sites (according to [IM-Dashboard](https://appsgrycap.i3m.upv.es:31443/im-dashboard/)):
     - No sites reported!!
 
 ## O3AS
@@ -78,7 +78,7 @@ Here are links for the VOs
 - AppDB: [https://appdb.egi.eu/store/vo/o3as.data.kit.edu](https://appdb.egi.eu/store/vo/o3as.data.kit.edu)
 - Entitlement: `urn:mace:egi.eu:group:o3as.data.kit.edu`
 - OPS Portal: [https://operations-portal.egi.eu/vo/view/voname/o3as.data.kit.edu](https://operations-portal.egi.eu/vo/view/voname/o3as.data.kit.edu)
-- Supported by sites (according to IM-Dashboard):
+- Supported by sites (according to [IM-Dashboard](https://appsgrycap.i3m.upv.es:31443/im-dashboard/)):
     - BIFI
     - CESGA
     - CETA-Ciemat
@@ -97,7 +97,7 @@ Here are links for the VOs
 - AppDB: Missing
 - Entitlement: `urn:mace:egi.eu:group:saps-vo.i3m.upv.es`
 - OPS Portal: [https://operations-portal.egi.eu/vo/view/voname/saps-vo.i3m.upv.es](https://operations-portal.egi.eu/vo/view/voname/saps-vo.i3m.upv.es)
-- Supported by sites (according to IM-Dashboard):
+- Supported by sites (according to [IM-Dashboard](https://appsgrycap.i3m.upv.es:31443/im-dashboard/)):
     - UPV-GRyCAP
 
 ## SCIPION (**not yet final, waiting for DNS entry**)
@@ -124,7 +124,7 @@ Here are links for the VOs
 - AppDB:  [https://appdb.egi.eu/store/vo/eosc-synergy.eu](https://appdb.egi.eu/store/vo/eosc-synergy.eu)
 - Entitlement: `urn:mace:egi.eu:group:eosc-synergy.eu`
 - OPS Portal: [https://operations-portal.egi.eu/vo/view/voname/eosc-synergy.eu](https://operations-portal.egi.eu/vo/view/voname/eosc-synergy.eu)
-- Supported by sites (according to IM-Dashboard):
+- Supported by sites (according to [IM-Dashboard](https://appsgrycap.i3m.upv.es:31443/im-dashboard/)):
     - BIFI
     - CESGA
     - CESNET
@@ -145,7 +145,7 @@ Here are links for the VOs
 - AppDB:  MISSING 
 - Entitlement: `urn:mace:egi.eu:group:umsa.cerit-sc.cz`
 - OPS Portal: [https://operations-portal.egi.eu/vo/view/voname/umsa.cerit-sc.cz](https://operations-portal.egi.eu/vo/view/voname/umsa.cerit-sc.cz)
-- Supported by sites (according to IM-Dashboard):
+- Supported by sites (according to [IM-Dashboard](https://appsgrycap.i3m.upv.es:31443/im-dashboard/)):
     - No sites reported!!
 
 ## WORSICA
@@ -160,7 +160,7 @@ Here are links for the VOs
 - AppDB: MISSING
 - Entitlement: `urn:mace:egi.eu:group:worsica.vo.incd.pt`
 - OPS Portal: MISSING
-- Supported by sites (according to IM-Dashboard):
+- Supported by sites (according to [IM-Dashboard](https://appsgrycap.i3m.upv.es:31443/im-dashboard/)):
     - BIFI
     - CESGA
     - LIP NCG
