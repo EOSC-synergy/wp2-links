@@ -35,7 +35,7 @@ Here are links for the VOs
 - Entitlement: `urn:mace:egi.eu:group:EOServices-vo.indra.es`
 - OPS Portal: [https://operations-portal.egi.eu/vo/view/voname/EOServices-vo.indra.es](https://operations-portal.egi.eu/vo/view/voname/EOServices-vo.indra.es)
 - Supported by sites (according to [IM-Dashboard](https://appsgrycap.i3m.upv.es:31443/im-dashboard/)):
-    - CETA-Ciemat
+    - N/A
 
 
 ## LAGO
@@ -50,7 +50,7 @@ Here are links for the VOs
 - Entitlement: `urn:mace:egi.eu:group:lagoproject.net`
 - OPS Portal: [https://operations-portal.egi.eu/vo/view/voname/lagoproject.net](https://operations-portal.egi.eu/vo/view/voname/lagoproject.net)
 - Supported by sites (according to [IM-Dashboard](https://appsgrycap.i3m.upv.es:31443/im-dashboard/)):
-    - Lago does not appear in the list of VOs yet!!
+    - CETA-Ciemat
 
 ## MSWSS
 <!-- Jan Astalos <jan.astalos@savba.sk>-->
