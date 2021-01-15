@@ -84,6 +84,20 @@ Here are links for the VOs
     - CETA-Ciemat
     - IFCA
 
+## UMSA
+<!-- Aleš Křenek <ljocha@ics.muni.cz> -->
+- Purpose: Processing untargetted mass spectrometry data
+- Homepage: umsa.cerit-sc.cz
+- Join here: [https://aai.egi.eu/registry/co_petitions/start/coe](https://aai.egi.eu/registry/co_petitions/start/coe)f:161
+- Contact VO Admins: umsa@cerit-sc.cz
+- Security Contact: kouril@ics.muni.cz
+- Support: [http://infra.eosc-synergy.eu/umsa/](http://infra.eosc-synergy.eu/umsa/)
+- [Accounting]() MISSING
+- AppDB:  MISSING 
+- Entitlement: `urn:mace:egi.eu:group:umsa.cerit-sc.cz`
+- OPS Portal: [https://operations-portal.egi.eu/vo/view/voname/umsa.cerit-sc.cz](https://operations-portal.egi.eu/vo/view/voname/umsa.cerit-sc.cz)
+- Supported by sites (according to [IM-Dashboard](https://appsgrycap.i3m.upv.es:31443/im-dashboard/)):
+    - No sites reported!!
 
 ## SAPS (APPDB entry Missing)
 <!-- Amanda Calatrava <amcaar@i3m.upv.es>-->
@@ -132,21 +146,6 @@ Here are links for the VOs
     - IFCA
     - IISAS (Cloud, GPU, Normal)
     - LIP NCG
-
-## UMSA
-<!-- Aleš Křenek <ljocha@ics.muni.cz> -->
-- Purpose: Processing untargetted mass spectrometry data
-- Homepage: umsa.cerit-sc.cz
-- Join here: [https://aai.egi.eu/registry/co_petitions/start/coe](https://aai.egi.eu/registry/co_petitions/start/coe)f:161
-- Contact VO Admins: umsa@cerit-sc.cz
-- Security Contact: kouril@ics.muni.cz
-- Support: [http://infra.eosc-synergy.eu/umsa/](http://infra.eosc-synergy.eu/umsa/)
-- [Accounting]() MISSING
-- AppDB:  MISSING 
-- Entitlement: `urn:mace:egi.eu:group:umsa.cerit-sc.cz`
-- OPS Portal: [https://operations-portal.egi.eu/vo/view/voname/umsa.cerit-sc.cz](https://operations-portal.egi.eu/vo/view/voname/umsa.cerit-sc.cz)
-- Supported by sites (according to [IM-Dashboard](https://appsgrycap.i3m.upv.es:31443/im-dashboard/)):
-    - No sites reported!!
 
 ## WORSICA
 <!-- Alberto Azevedo <aazevedo@lnec.pt> -->
