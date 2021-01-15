@@ -35,7 +35,7 @@ Here are links for the VOs
 - Entitlement: `urn:mace:egi.eu:group:EOServices-vo.indra.es`
 - OPS Portal: [https://operations-portal.egi.eu/vo/view/voname/EOServices-vo.indra.es](https://operations-portal.egi.eu/vo/view/voname/EOServices-vo.indra.es)
 - Supported by sites (according to [IM-Dashboard](https://appsgrycap.i3m.upv.es:31443/im-dashboard/)):
-    - N/A
+    - CETA-Ciemat
 
 
 ## LAGO
