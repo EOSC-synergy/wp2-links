@@ -23,18 +23,19 @@ Here are links for the VOs
     - LIP NCG
 
 
-## gCORE (not operational yet)
+## gCORE
 <!-- Manuel Pavesio <mpavesio@indra.es>-->
+<!-- "Sánchez-Ferrero De Pablo, Juan" <jsanchezferrero@indra.es>-->
 - Purpose: Service for the acquisition, storage, cataloguing and processing data from several EOS missions.
 - Homepage: [https://www.eosc-synergy.eu/thematic-services/g-core](https://www.eosc-synergy.eu/thematic-services/g-core)/ 
-- Join here: [https://aai.egi.eu/registry/co_petitions/start/coe](https://aai.egi.eu/registry/co_petitions/start/coe)f:78
-- Contact VO Admins: **MISSING**
-- Security Contact: jsanchezferrero@indra.es
+- Join here: [https://aai.egi.eu/registry/co_petitions/start/coef:78](https://aai.egi.eu/registry/co_petitions/start/coef:78)
+- Contact VO Admins: gcore@lists.kit.edu
+- Security Contact: gcore@lists.kit.edu
 - [Accounting](https://accounting.egi.eu/cloud/vm_num/SITE/DATE/2019/4/2021/1/custom-EOServices-vo.indra.es/onlyinfrajobs/) (no data yet)
 - AppDB: MISSING
 - Entitlement: `urn:mace:egi.eu:group:EOServices-vo.indra.es`
 - OPS Portal: [https://operations-portal.egi.eu/vo/view/voname/EOServices-vo.indra.es](https://operations-portal.egi.eu/vo/view/voname/EOServices-vo.indra.es)
-- Supported by sites (according to [IM-Dashboard](https://appsgrycap.i3m.upv.es:31443/im-dashboard/)):
+- Supported by sites (according to [IM-Dashboard]
     - N/A
 
 
@@ -57,15 +58,15 @@ Here are links for the VOs
 <!-- Miroslav Dobrucky <miroslav.dobrucky@savba.sk>-->
 - Purpose: Water Supply System Modelling and Simulation
 - Homepage: [https://www.eosc-synergy.eu/thematic-services/mswss/](https://www.eosc-synergy.eu/thematic-services/mswss/)
-- Join here: [https://aai.egi.eu/registry/co_petitions/start/coe](https://aai.egi.eu/registry/co_petitions/start/coe)f:159
+- Join here: [https://aai.egi.eu/registry/co_petitions/start/coef:159](https://aai.egi.eu/registry/co_petitions/start/coef:159)
 - Contact VO Admins: mswss-admin@slovakgrid.sk
 - Security Contact: mswss-admin@slovakgrid.sk
-- [Accounting](https://accounting.egi.eu/cloud/vm_num/SITE/DATE/2019/4/2021/1/custom-mswss.ui.savba.sk/onlyinfrajobs/) (no data yet)
+- [Accounting](https://accounting.egi.eu/cloud/vm_num/SITE/DATE/2019/4/2021/1/custom-mswss.ui.savba.sk/onlyinfrajobs/) 
 - AppDB: [https://appdb.egi.eu/store/vo/mswss.ui.savba.sk](https://appdb.egi.eu/store/vo/mswss.ui.savba.sk)
 - Entitlement: `urn:mace:egi.eu:group:mswss.ui.savba.sk`
 - OPS Portal: [https://operations-portal.egi.eu/vo/view/voname/mswss.ui.savba.sk](https://operations-portal.egi.eu/vo/view/voname/mswss.ui.savba.sk)
 - Supported by sites (according to [IM-Dashboard](https://appsgrycap.i3m.upv.es:31443/im-dashboard/)):
-    - No sites reported!!
+    - No sites reported!! in IM, but sites visible in fedcloud!!
 
 ## O3AS
 <!-- Marcus Hardt <hardt@kit.edu>-->
@@ -88,7 +89,7 @@ Here are links for the VOs
 <!-- Aleš Křenek <ljocha@ics.muni.cz> -->
 - Purpose: Processing untargetted mass spectrometry data
 - Homepage: umsa.cerit-sc.cz
-- Join here: [https://aai.egi.eu/registry/co_petitions/start/coe](https://aai.egi.eu/registry/co_petitions/start/coe)f:161
+- Join here: [https://aai.egi.eu/registry/co_petitions/start/coef:161](https://aai.egi.eu/registry/co_petitions/start/coef:161)
 - Contact VO Admins: umsa@cerit-sc.cz
 - Security Contact: kouril@ics.muni.cz
 - Support: [http://infra.eosc-synergy.eu/umsa/](http://infra.eosc-synergy.eu/umsa/)
@@ -104,7 +105,7 @@ Here are links for the VOs
 <!-- Thiago Emmanuel Pereira da Cunha Silva <temmanuel@computacao.ufcg.edu.br>-->
 - Purpose: Surface Energy Balance Algorithm for Land Service
 - Homepage: [https://www.eosc-synergy.eu/thematic-services/saps/](https://www.eosc-synergy.eu/thematic-services/saps/)
-- Join here: [https://aai.egi.eu/registry/co_petitions/start/coe](https://aai.egi.eu/registry/co_petitions/start/coe)f:163
+- Join here: [https://aai.egi.eu/registry/co_petitions/start/coef:163](https://aai.egi.eu/registry/co_petitions/start/coef:163)
 - Contact VO Admins: saps@i3m.upv.es
 - Security Contact: saps@i3m.upv.es
 - [Accounting](https://accounting.egi.eu/cloud/vm_num/SITE/DATE/2019/4/2021/1/custom-saps-vo.i3m.upv.es/onlyinfrajobs/) (no data yet)
@@ -117,14 +118,16 @@ Here are links for the VOs
 ## SCIPION (**not yet final, waiting for DNS entry**)
 <!-- Laura del Cano <ldelcano@cnb.csic.es>-->
 - Purpose: Instruct cryo electron microscopy data processing
-- Homepage: https://www.eosc-synergy.eu/thematic-services/scipion/
-- Join here: 
+- Homepage: [https://www.eosc-synergy.eu/thematic-services/scipion/](https://www.eosc-synergy.eu/thematic-services/scipion/)
+- Join here: [https://aai.egi.eu/registry/co_petitions/start/coef:225](https://aai.egi.eu/registry/co_petitions/start/coef:225)
 - Contact VO Admins: i2pc@cnb.csic.es
 - Security Contact: i2pc@cnb.csic.es
 - [Accounting]() MISSING
 - AppDB: MISSING
-- Entitlement:  **cryoem.instruct.eu**
-- OPS Portal: MISSING
+- Entitlement:  `urn:mace:egi.eu:group:cryoem.instruct-eric.eu`
+- OPS Portal: [https://operations-portal.egi.eu/vo/view/voname/cryoem.instruct-eric.eu](https://operations-portal.egi.eu/vo/view/voname/cryoem.instruct-eric.eu)
+- Supported by sites (according to [IM-Dashboard](https://appsgrycap.i3m.upv.es:31443/im-dashboard/)):
+    - NONE
 
 ## SYNERGY
 <!-- Isabel -->

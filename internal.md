@@ -18,13 +18,14 @@
 	
 ## AAI
 
-- EGI CheckIn: [https://aai.egi.eu](https://aai.egi.eu)
+- EGI Check-in: [https://aai.egi.eu](https://aai.egi.eu)
 - How to integrate a client with EGI CheckIn: [https://wiki.egi.eu/wiki/AAI_guide_for_SPs](https://wiki.egi.eu/wiki/AAI_guide_for_SPs)
 - OIDC to X.509 + VOMS Token Translation with WaTTS: [https://watts-prod.data.kit.edu/](https://watts-prod.data.kit.edu/oidc?provider=egi)
     - Commandline Client: [wattson](https://github.com/watts-kit/wattson)
 - Testing OIDC Provider: [orpheus](https://orpheus.data.kit.edu/)
 - oidc-agent: [https://github.com/indigo-dc/oidc-agent](https://github.com/indigo-dc/oidc-agent)
     - Repo: [http://repo.data.kit.edu/](http://repo.data.kit.edu/)
+- EGI Check-in / CoManage howto: [https://docs.egi.eu/users/check-in/vos](https://docs.egi.eu/users/check-in/vos)
 
 ### EGI Checkin:
 - [https://wiki.egi.eu/wiki/AAI_guide_for_SPs](https://wiki.egi.eu/wiki/AAI_guide_for_SPs)
