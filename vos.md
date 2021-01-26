@@ -46,7 +46,7 @@ Here are links for the VOs
 - Join here: [https://mms.eduteams.org/fed/registrar/?vo=LAGO-AAI](https://mms.eduteams.org/fed/registrar/?vo=LAGO-AAI)
 - Contact VO Admins: MISSING
 - Security Contact: MISSING
-- Accounting
+- [Accounting](https://accounting.egi.eu/cloud/vm_num/SITE/DATE/2019/4/2021/1/custom-lagoproject.net/onlyinfrajobs/ )
 - AppDB: [https://appdb.egi.eu/store/vo/lagoproject.net](https://appdb.egi.eu/store/vo/lagoproject.net)
 - Entitlement: `urn:mace:egi.eu:group:lagoproject.net`
 - OPS Portal: [https://operations-portal.egi.eu/vo/view/voname/lagoproject.net](https://operations-portal.egi.eu/vo/view/voname/lagoproject.net)
