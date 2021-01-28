@@ -19,6 +19,7 @@ Here are links for the VOs
     - CESGA
     - CESNET
     - CETA-Ciemat
+    - IFCA-LCG2
     - IISAS Fed-, GPU, and normal- Cloud
     - LIP NCG
 
@@ -27,7 +28,7 @@ Here are links for the VOs
 <!-- Manuel Pavesio <mpavesio@indra.es>-->
 <!-- "Sánchez-Ferrero De Pablo, Juan" <jsanchezferrero@indra.es>-->
 - Purpose: Service for the acquisition, storage, cataloguing and processing data from several EOS missions.
-- Homepage: [https://www.eosc-synergy.eu/thematic-services/g-core](https://www.eosc-synergy.eu/thematic-services/g-core)/ 
+- Homepage: [https://www.eosc-synergy.eu/thematic-services/g-core](https://www.eosc-synergy.eu/thematic-services/g-core)/
 - Join here: [https://aai.egi.eu/registry/co_petitions/start/coef:78](https://aai.egi.eu/registry/co_petitions/start/coef:78)
 - Contact VO Admins: gcore@lists.kit.edu
 - Security Contact: gcore@lists.kit.edu
@@ -61,7 +62,7 @@ Here are links for the VOs
 - Join here: [https://aai.egi.eu/registry/co_petitions/start/coef:159](https://aai.egi.eu/registry/co_petitions/start/coef:159)
 - Contact VO Admins: mswss-admin@slovakgrid.sk
 - Security Contact: mswss-admin@slovakgrid.sk
-- [Accounting](https://accounting.egi.eu/cloud/vm_num/SITE/DATE/2019/4/2021/1/custom-mswss.ui.savba.sk/onlyinfrajobs/) 
+- [Accounting](https://accounting.egi.eu/cloud/vm_num/SITE/DATE/2019/4/2021/1/custom-mswss.ui.savba.sk/onlyinfrajobs/)
 - AppDB: [https://appdb.egi.eu/store/vo/mswss.ui.savba.sk](https://appdb.egi.eu/store/vo/mswss.ui.savba.sk)
 - Entitlement: `urn:mace:egi.eu:group:mswss.ui.savba.sk`
 - OPS Portal: [https://operations-portal.egi.eu/vo/view/voname/mswss.ui.savba.sk](https://operations-portal.egi.eu/vo/view/voname/mswss.ui.savba.sk)
@@ -83,7 +84,7 @@ Here are links for the VOs
     - BIFI
     - CESGA
     - CETA-Ciemat
-    - IFCA
+    - IFCA-LCG2
 
 ## UMSA
 <!-- Aleš Křenek <ljocha@ics.muni.cz> -->
@@ -94,7 +95,7 @@ Here are links for the VOs
 - Security Contact: kouril@ics.muni.cz
 - Support: [http://infra.eosc-synergy.eu/umsa/](http://infra.eosc-synergy.eu/umsa/)
 - [Accounting]() MISSING
-- AppDB:  MISSING 
+- AppDB:  MISSING
 - Entitlement: `urn:mace:egi.eu:group:umsa.cerit-sc.cz`
 - OPS Portal: [https://operations-portal.egi.eu/vo/view/voname/umsa.cerit-sc.cz](https://operations-portal.egi.eu/vo/view/voname/umsa.cerit-sc.cz)
 - Supported by sites (according to [IM-Dashboard](https://appsgrycap.i3m.upv.es:31443/im-dashboard/)):
@@ -127,7 +128,7 @@ Here are links for the VOs
 - Entitlement:  `urn:mace:egi.eu:group:cryoem.instruct-eric.eu`
 - OPS Portal: [https://operations-portal.egi.eu/vo/view/voname/cryoem.instruct-eric.eu](https://operations-portal.egi.eu/vo/view/voname/cryoem.instruct-eric.eu)
 - Supported by sites (according to [IM-Dashboard](https://appsgrycap.i3m.upv.es:31443/im-dashboard/)):
-    - NONE
+    - IFCA-LCG2
 
 ## SYNERGY
 <!-- Isabel -->
@@ -146,7 +147,7 @@ Here are links for the VOs
     - CESGA
     - CESNET
     - CETA-Ciemat
-    - IFCA
+    - IFCA-LCG2
     - IISAS (Cloud, GPU, Normal)
     - LIP NCG
 
@@ -165,6 +166,7 @@ Here are links for the VOs
 - Supported by sites (according to [IM-Dashboard](https://appsgrycap.i3m.upv.es:31443/im-dashboard/)):
     - BIFI
     - CESGA
+    - IFCA-LCG2
     - LIP NCG
 
 
@@ -174,12 +176,12 @@ Here are links for the VOs
 - <Not interested in Synergy (Message-ID: <5c56d9f2-44ef-80e2-8fe2-9513f8df5b34@bsc.es>)
 
 ## OPENEBENCH [**No information provided**]
-- Purpose: 
-- Homepage: 
-- Join here: 
-- Contact VO Admins: 
-- Security Contact: 
+- Purpose:
+- Homepage:
+- Join here:
+- Contact VO Admins:
+- Security Contact:
 - [Accounting]()
-- AppDB: 
-- Entitlement: 
-- OPS Portal: 
+- AppDB:
+- Entitlement:
+- OPS Portal:
