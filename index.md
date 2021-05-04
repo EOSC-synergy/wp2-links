@@ -1,12 +1,10 @@
 [![eosc-synergy-logo](https://www.eosc-synergy.eu/wp-content/uploads/logo-color-texto.png)](https://eosc-synergy.eu)
 
-#EOSC-SYNERGY Link List of WP2
+# EOSC-SYNERGY -- WP2
 
-Here we're collecting links that are relevant for internal use of EOSC
-Synergy.
+Here you find documentation about 
 
-**Please find here the documentation for the 
-[Thematic Services](how-to-thematic-services)**
-
-And **[How Admin Users should use the
-infrastructure](how-to-thematic-services#admin-users)**
+- the EOSC-Synergy Infrastructure 
+- How to obtain resources
+- How to get access to them 
+- How to use them

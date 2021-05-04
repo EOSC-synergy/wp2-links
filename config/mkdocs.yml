@@ -18,30 +18,21 @@ markdown_extensions:
     - def_list
 nav:
     - Home: index.md
-    - Thematic Services: how-to-thematic-services.md
-    - Infrastructure: infrastructure.md
+    - ----------: /
+    - Infrastructure 101: infra_101.md
+    - Organisation of infrastructure: infra_organisation.md
+    - How to get access: how-to-get-access.md
+    - How to use the infrastructure: infra_howto.md
+    - How to get Ressources: ressources_howto.md
     - Virtual Organisations: vos.md
-    - Public Links: publinks.md
-    - Internal Links: internal.md
-    - Notes on Storage: storage.md
-    # - ----------: /
-    # - All links (to be moved elsewhere): wp-link-collection.md
-    #
-    # - Concepts:
-    #     - Virtual Organisations: how-to-vo.md
-    #     - Proxy: proxy-concept.md
-    # - Howtos for...:
-    #     - Users: how-to-users.md
-    #     - PIs (VO Administrators): how-to-vo-admins.md
-    #     - Services: how-to-services.md
-    #     - Developers: how-to-service-implementation.md
-    #     - Identity Providers: how-to-idp.md
-    # - Virtual Organisations:
-    #     - List of supported VOs: list-of-vos.md
-    # - Assurance : how-to-assurance.md
-    # - HDF Policies : policies/links-to-all-policies.md
-    # - Mailinglists: mailinglists.md
-    # - Incident Response: how-to-incident-response.md
+    - Cloud Infrastructure: cloud.md
+    - ----------: /
+    - Tools: tools.md
+    - ----------: /
+    #- Infrastructure: infrastructure.md
+    - Accounting: accounting-links.md
+    #- Notes on Storage: storage.md
+    - Internal Link Collection: internal.md
     - ----------: /
     # - Copy of the HDF Official Webpage: hdf-official-web-copy.md
     - Imprint: http://www.kit.edu/impressum.php
