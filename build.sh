@@ -11,4 +11,9 @@
 # done
 #
 # scp `dirname $0`/${file}.html cvs.data.kit.edu:/home/marcus/infra.eosc-synergy.eu/index.html
-(cd config/; mkdocs build ; rsync -rlutopgxv --delete /tmp/synergy-wp2/ cvs.data.kit.edu:/home/marcus/infra.eosc-synergy.eu)
+
+#(cd config/; mkdocs build ; rsync -rlutopgxv --delete /tmp/synergy-wp2/ cvs.data.kit.edu:/home/marcus/infra.eosc-synergy.eu)
+
+#(cd config/; mkdocs build )
+
+(cd config/; mkdocs build ; rsync -rlutopgxv --delete /tmp/synergy-wp2/ hardt-it.de:/home/marcus/web/infra.eosc-synergy.eu)
