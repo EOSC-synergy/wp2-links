@@ -26,7 +26,7 @@
 - [**Dynamic DNS service**](https://nsupdate.fedcloud.eu/) enables users to register
   meaningful, memorable hostnames then assign them to services deployed in Cloud,
   so users can access services that are dynamically deployed in Cloud via pre-registered
-  URLs/hostnames. Documentation is avvailable [here](https://docs.egi.eu/users/cloud-compute/dynamic-dns/).
+  URLs/hostnames. Documentation is available [here](https://docs.egi.eu/users/cloud-compute/dynamic-dns/).
 
 - [**SLA Monitor**](https://infra.eosc-synergy.eu/~marcus/sla-monitor/) shows
     the currently active quota for each VO at all sites.
