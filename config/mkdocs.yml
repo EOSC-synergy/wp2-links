@@ -17,7 +17,7 @@ markdown_extensions:
     - admonition
     - def_list
 nav:
-    - Home: tools.md
+    - Home: index.md
     - ----------: /
     - Infrastructure 101: infra_101.md
     - Organisation of infrastructure: infra_organisation.md
