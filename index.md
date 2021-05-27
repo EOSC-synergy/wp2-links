@@ -44,7 +44,7 @@ more storage-focussed tools.
     rclone with the EOSC-Synergy Infrastructure
     [**here**](https://github.com/EOSC-synergy/documentation/tree/master/users)
 
-## HPC-Access (may also work for VM-Access)
+## HPC-Access
 
 You will be able to use ssh with OpenID-Connect. Documentation [here](https://github.com/EOSC-synergy/ssh-oidc)
 
