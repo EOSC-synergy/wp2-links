@@ -31,6 +31,9 @@
 - [**SLA Monitor**](https://infra.eosc-synergy.eu/~marcus/sla-monitor/) shows
     the currently active quota for each VO at all sites.
 
+- [**Flavour Monitor**](https://infra.eosc-synergy.eu/~marcus/sla-monitor/fla-index.html) show
+    the available flavours of the available Openstack installations.
+
 ## Cloud-storage
 
 While OpenStack already includes ways to access storage, this section contains
