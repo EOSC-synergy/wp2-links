@@ -6,8 +6,6 @@ The infrastructure consists of many components and different tools used for
 accessing them. Describing all of them here would be too much. Therefore, 
 here we give a few examples of what is possible on EOSC-Synergy.
 
-For details on the individuals [Tools](tools.md) we have the [Tools](tools.md)
-section.
 
 
 ## What can I do on the infrastructure
@@ -28,7 +26,7 @@ HPC works traditionally different from grid or cloud.  In EOSC-Synergy you have
 two options:
 
 1. You can create a **virtual cluster** on top of the cloud using the
-   [Infrastructure Manage](tools.md). You can use the SLURM template to
+   Infrastructure Manage. You can use the SLURM template to
    create your own SLURM cluster. This may be useful, if you have software that
    requires this.
 
