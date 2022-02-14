@@ -131,6 +131,17 @@ Here are links for the VOs
 - Entitlement: `urn:mace:egi.eu:group:worsica.vo.incd.pt`
 - OPS Portal: MISSING
 
+## Universiy
+- Purpose: Suppor universitary courses on the infrastructure
+- Homepage: [https://university.eosc-synergy.eu](https://university.eosc-synergy.eu)
+- Request membership: [https://aai.egi.eu/registry/co_petitions/start/coef:374](https://aai.egi.eu/registry/co_petitions/start/coef:374)
+- Contact VO Admins: [synergy-university@lists.kit.edu](mailto:synergy-university@lists.kit.edu)
+- Security Contact: [synergy-university-admin@lists.kit.edu](mailto:synergy-university-admin@lists.kit.edu)
+- [Accounting](https://accounting.egi.eu/cloud/vm_num/SITE/DATE/2019/4/2021/5/custom-university.eosc-synergy.eu/onlyinfrajobs/)
+- AppDB: [https://appdb.egi.eu/store/vo/university.eosc-synergy.eu](https://appdb.egi.eu/store/vo/university.eosc-synergy.eu)
+- [Accounting](https://accounting.egi.eu/cloud/vm_num/SITE/DATE/2019/4/2021/02/custom-eosc-synergy.eu/onlyinfrajobs)
+- Entitlement: `urn:mace:egi.eu:group:university.eosc-synergy.eu`
+- OPS Portal: [https://operations-portal.egi.eu/vo/view/voname/university.eosc-synergy.eu](https://operations-portal.egi.eu/vo/view/voname/university.eosc-synergy.eu)
 
 # Unsupported VOs
 
