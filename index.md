@@ -23,10 +23,14 @@
     a commandline interface to the federated cloud.
     Useful documentation is available [the fedcloudclient tutorial](https://docs.google.com/presentation/d/1aOdcceztXe8kZaIeVnioF9B0vIHLzJeklSNOdVCL3Rw/edit#slide=id.p)
  
-- [**Dynamic DNS service**](https://nsupdate.fedcloud.eu/) enables users to register
+- [**Dynamic DNS service**](https://nsupdate.fedcloud.eu/) 
+    ([docs](https://docs.egi.eu/users/cloud-compute/dynamic-dns/)) enables users to register
   meaningful, memorable hostnames then assign them to services deployed in Cloud,
   so users can access services that are dynamically deployed in Cloud via pre-registered
-  URLs/hostnames. Documentation is available [here](https://docs.egi.eu/users/cloud-compute/dynamic-dns/).
+  URLs/hostnames. Documentation is available .
+
+- [**EOSC Performance**](https://performance.services.fedcloud.eu/)
+    ([docs](https://performance.services.fedcloud.eu/api/v1/)|[marketplace](https://marketplace.eosc-portal.eu/services/eosc-performance))
 
 - [**SLA Monitor**](https://infra.eosc-synergy.eu/~marcus/sla-monitor/) shows
     the currently active quota for each VO at all sites.
