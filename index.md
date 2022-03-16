@@ -2,6 +2,9 @@
 
 # EOSC-SYNERGY -- Tools
 
+New: We have now a moodle course on 
+[Top Tools Every EOSC Synergy Developer Should Know](https://moodle.learn.eosc-synergy.eu/enrol/index.php?id=134)
+
 ## Cloud-compute / Virtual Machines
 
 - [**Infrastructure Manager
