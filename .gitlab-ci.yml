@@ -1,0 +1,16 @@
+---
+include:
+  - 'https://git.scc.kit.edu/m-team/ci-voodoo/raw/master/ci-include/generic-ci.yml'
+  - 'https://git.scc.kit.edu/m-team/ci-voodoo/raw/master/ci-include/pipeline-jobs-mkdocs.yml'
+
+stages:
+  - build
+  - publish
+
+variables:
+  # the basename of the 'site_dir' in mkdocs.yml synergy-wp2
+  MKDOCS_PROJECT_NAME: 'synergy-wp2'
+  MKDOCS_SERVER_DIR: '/home/cicd-cvs/infra.eosc-synergy.eu'
+
+  REPO_USER: 'cicd-cvs'
+  REPO_HOST: 'cvs.data.kit.edu'
